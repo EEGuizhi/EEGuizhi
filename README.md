@@ -2,12 +2,12 @@
 
 
 ## <b style="font-weight: 600">🔭 簡介：</b>
-<h4>
-    I am 一個升大學後就沒再認識任何一個女生的可憐大學生
-</h4>
-<h6>
-    但我會寫一點點程式 這樣暈ㄇ
-</h6><br><br>
+<p>
+    I am 一個升大學後 就沒再認識任何一個女生的可憐大學生<br>
+    我會寫一點點程式 這樣暈ㄇ<br>
+    <br>
+    ( 開玩笑別把我當噁男
+</p><br><br>
 
 
 ## <b style="font-weight: 600">Languages and Tools:</b>
@@ -32,6 +32,7 @@
 
 
 ## <b style="font-weight: 600">⚡ Fun fact：</b>
-- Minecraft DataPacks / Maps 創作者
+- Minecraft DataPacks / Maps Creator
 - 有一個粉絲數可能比你各位IG的粉絲數還少的頻道
 - 超級學霸 (夢想
+- 死不玩推塔類遊戲
