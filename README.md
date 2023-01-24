@@ -1,6 +1,3 @@
-# <b style="font-weight: 600">Ro = (1 + gm*ro)Rs + ro </b>
-
-
 ## #<b style="font-weight: 600"> About Me：</b>
 ```
 渴望社交、想受歡迎 --> 發現沒人理自己 --> 去看動漫好了
