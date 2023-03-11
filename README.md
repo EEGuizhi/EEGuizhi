@@ -6,6 +6,7 @@
        |                                    v
 看完動漫空虛期 <-- 變得黏在電腦前 <-- 邊看邊獲得心靈滿足
 ```
+https://github.com/EEGuizhi/C_Cpp/blob/main/ACGN.txt
 <br><br>
 
 
