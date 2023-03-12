@@ -6,7 +6,6 @@
    |                                 v
 感到空虛 <-- 變得更黏在電腦前 <-- 獲得心靈滿足
 ```
-https://github.com/EEGuizhi/C_Cpp/blob/main/ACGN.txt
 <br><br>
 
 
