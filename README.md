@@ -1,10 +1,10 @@
 ## #<b style="font-weight: 600"> About Me：</b>
 ```
-渴望社交、想受歡迎 --> 發現沒人理自己 --> 去看動漫好了
-       ^                                    |
-       |        Otaku Circulation           |
-       |                                    v
-看完動漫空虛期 <-- 變得黏在電腦前 <-- 邊看邊獲得心靈滿足
+渴望社交 -->  發現沒人理自己  --> 去看動漫好了
+   ^                                 |
+   |        Otaku Circulation        |
+   |                                 v
+感到空虛 <-- 變得更黏在電腦前 <-- 獲得心靈滿足
 ```
 https://github.com/EEGuizhi/C_Cpp/blob/main/ACGN.txt
 <br><br>
