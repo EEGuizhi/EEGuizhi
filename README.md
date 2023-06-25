@@ -16,7 +16,7 @@
 
 
 ## #<b style="font-weight: 600"> Contact Me：</b>
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="" height="30" width="30" /> Guizhi#0078
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="" height="30" width="30" /> guizhi  (was Guizhi#0078)
 </span>
 <br><br><br>
 
