@@ -6,7 +6,7 @@
    |                                 v
 感到空虛 <--- 變得更黏在電腦前 <--- 心靈暫時滿足
 ```-->
-大學就讀中
+Studying at National Chung Hsing University.
 <br><br>
 
 
