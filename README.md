@@ -6,7 +6,8 @@
    |                                 v
 感到空虛 <--- 變得更黏在電腦前 <--- 心靈暫時滿足
 ```-->
-Studying at National Chung Hsing University.
+Currently pursuing bachelor's degree at National Chung Hsing University.<br>
+Major in Electronic circuits program.
 <br><br>
 
 
