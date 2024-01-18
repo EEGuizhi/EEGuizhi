@@ -22,10 +22,11 @@ Planning to start an MS degree at Yang Ming Chiao Tung University's Institute of
 
 
 ## #<b style="font-weight: 600"> Contact Me：</b>
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="" height="30" width="30" /> guizhi
-</span>
+   <!-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="" height="30" width="30" /> guizhi
+</span> -->
+- **Email**：danielnds123@gmail.com
 <br><br><br>
 
 
-## <b style="font-weight: 600">⚡ Fun fact：</b>
-- Minecraft DataPacks / Maps Creator (HolyGuizhi)
+<!-- ## <b style="font-weight: 600">⚡ Fun fact：</b>
+- Minecraft DataPacks / Maps Creator (HolyGuizhi) -->
