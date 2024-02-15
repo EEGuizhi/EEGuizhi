@@ -8,8 +8,8 @@
 ```-->
 Currently pursuing a bachelor's degree at National Chung Hsing University,<br>
 majoring in Electrical Engineering with a focus on the electronic circuits program.<br><br>
-Planning to start an MS degree at Yang Ming Chiao Tung University's Institute of Electronics in the Fall of 2024.
-<br><br>
+<!--Planning to start an MS degree at Yang Ming Chiao Tung University's Institute of Electronics in the Fall of 2024.
+<br><br>-->
 
 
 ## #<b style="font-weight: 600"> Languages and Tools：</b>
