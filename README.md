@@ -6,10 +6,9 @@
    |                                 v
 感到空虛 <--- 變得更黏在電腦前 <--- 心靈暫時滿足
 ```-->
-Currently pursuing a bachelor's degree at National Chung Hsing University,<br>
-majoring in Electrical Engineering with a focus on the electronic circuits program.<br><br>
-<!--Planning to start an MS degree at Yang Ming Chiao Tung University's Institute of Electronics in the Fall of 2024.
-<br><br>-->
+Obtained a bachelor's degree in Electrical Engineering from National Chung Hsing University.<br>
+Will pursue a Master's degree at the Institute of Electronics, National Yang Ming Chiao Tung University.
+<br><br>
 
 
 ## #<b style="font-weight: 600"> Languages and Tools：</b>
