@@ -14,7 +14,8 @@ Currently pursuing a Master's degree at the Institute of Electronics, National Y
 - C / C++
 - Python
 - Verilog / SystemVerilog
-- **Machine Learning Tools**:
+- SPICE
+- **Machine Learning Tools in Python**:
    - PyTorch
    - Scikit-learn
 <br><br>
