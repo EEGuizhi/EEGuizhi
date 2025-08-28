@@ -26,7 +26,7 @@ Currently pursuing a Master's degree at the Institute of Electronics, National Y
 - **Debug**: Verdi, NWave
 - **Synthesis**: Design Compiler
 - **APR**: Innvous
-- **Power Anakysis**: PrimeTime
+- **Power Analysis**: PrimeTime
 - **Formal Verification**: JasperGold
 <br>
 
