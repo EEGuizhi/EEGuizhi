@@ -6,7 +6,8 @@
    |                                 v
 感到空虛 <--- 變得更黏在電腦前 <--- 心靈暫時滿足
 ```-->
-Currently pursuing a Master's degree at the Institute of Electronics, National Yang Ming Chiao Tung University, and hold a Bachelor's degree in Electrical Engineering from National Chung Hsing University.
+Currently pursuing a Master's degree at the Institute of Electronics, National Yang Ming Chiao Tung University,
+and hold a Bachelor's degree in Electrical Engineering from National Chung Hsing University.
 <br><br>
 
 
@@ -15,9 +16,9 @@ Currently pursuing a Master's degree at the Institute of Electronics, National Y
 - Python
 - Verilog / SystemVerilog
 - SPICE
-- **Machine Learning Tools in Python**:
+- MATLAB
+- **Deep Learning Framework**:
    - PyTorch
-   - Scikit-learn
 <br><br>
 
 
